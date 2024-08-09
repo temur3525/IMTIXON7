@@ -1,0 +1,95 @@
+.plk_plk_plk{
+    font-size: 36px;
+    font-weight: 700;
+margin-top: -100px;
+position: relative;
+top: -1020px;
+left: 300px;
+color: #0061F7;
+
+}
+.pla_pla{
+    color: #0061F7;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    left: 350px;
+    top: -990px;
+}
+.table_murojatlar{
+  margin-top: -500px;
+  position: relative;
+  left: 290px;
+  top: -450px;
+    width: 1107px;
+    height: 310px;
+    border-collapse: collapse;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tr_1{
+    width: 100%;
+    background-color: #2F49D1;
+}
+.th_1{
+    color: white;
+   padding: 10px;
+}
+.tr_2{
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.tr_3{
+    background-color: #001CAF1A;
+    text-align: center;
+}
+.tr_5{
+    background-color: #001CAF1A;
+    text-align: center;
+}
+.tr_4{
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.delete_icon{
+    color: #B20000;
+    font-size: 30px;
+    position: absolute;
+    left: 1060px;
+  cursor: pointer;
+}
+.po_po{
+    color: #0061F7;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    left: 330px;
+    top: -350px;
+}
+.table__murojat1{
+    margin-top: -500px;
+  position: relative;
+  left: 290px;
+  top: 185px;
+      width: 1107px;
+      height: 310px;
+      border-collapse: collapse;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.img2_murojatlar{
+    position: relative;
+    top: -765px;
+    left: 23px;
+}
+.hg_ug_uy{
+    position: relative;
+    top: -315px;
+}
+.wer_murojatlar{
+    color: #0061F7;
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+    top: -900px;
+    left: 900px;
+}

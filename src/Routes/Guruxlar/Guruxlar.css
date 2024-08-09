@@ -1,0 +1,120 @@
+.img3_oquvchilar{
+    margin-top: -100px;
+    position: relative;
+    top: -1078.5px;
+    left: 23px;
+}
+.mn_mk1_lo{
+    position: relative;
+    top: -628.5px;
+}
+.drcfvg_xsdf{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0061F7;
+    margin-top: -200px;
+    position: relative;
+    top: -1020px;
+    left: 300px;
+}
+.cftvgb_xsdc{
+    color: #0061F7;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    top: -1000px;
+    left: 350px;
+}
+.form_guruxlar_form{
+    width: 320px;
+height: 48px;
+
+    display: grid;
+gap: 50px;
+grid-template-columns: 1fr 1fr 1fr;   
+position: relative;
+top: -950px; 
+left: 300px;
+}
+.input_guruxlar1{
+    width: 320px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.input_guruxlar2{
+    width: 320px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 500;
+}.input_guruxlar3{
+    width: 320px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 500;
+}.input_guruxlar4{
+    width: 320px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 500;
+}.input_guruxlar5{
+    width: 320px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.btn_dxcfg{
+    background-color: #2F49D1;
+    color: white;
+    cursor: pointer;
+    transition: .5s;
+    border: 1px solid transparent;
+font-size: 18px;
+font-weight: 500;
+border-radius: 8px;
+
+}
+.btn_dxcfg:hover{
+    background-color: transparent;
+    color: #2F49D1;
+    border-color: #2F49D1;
+    transition: .5s;
+}
+.xsdc{
+    color: #0061F7;
+    font-size: 36px;
+ font-weight: 700;
+ margin-top: -100px;
+ position: relative;
+ top: -700px;
+ left: 370px;
+
+}
+.wer_guruxlar{
+    color: #0061F7;
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+    top: -1090px;
+    left: 900px;
+}

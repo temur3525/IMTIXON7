@@ -1,0 +1,339 @@
+a{
+    color: black;
+    text-decoration: none;
+    position: absolute;
+  
+}
+
+.menu{
+    width: 253px;
+   height: 1150px;
+ background-color: #2F49D1;
+
+    
+}
+.icn{
+    font-size: 20px;
+    color: white;
+position: relative;
+top: 13px;
+left: 20px;
+}
+.nm{
+    width: 253px;
+    height: 51px;
+    background-color: #2F49D1;
+    position: absolute;
+    top: 125px;
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+
+}
+.nm:hover{
+    background-color: #01265F;
+    transition: .2s;
+    cursor: pointer;
+
+}
+
+.pl1{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+     position: relative;
+top: 17px;
+left: 40px; 
+}
+.nm1{
+    width: 253px;
+    height: 51px;
+    background-color: #2F49D1;
+    position: absolute;
+    top: 176px;
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+}
+.nm1:hover{
+    background-color: #01265F;
+    transition: .2s;
+    cursor: pointer;
+
+}
+.pl2{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+     position: relative;
+top: 17px;
+left: 40px; 
+}.icn1{
+    font-size: 20px;
+    color: white;
+position: relative;
+top: 14px;
+left: 20px;
+}
+.nm2{
+    width: 253px;
+    height: 51px;
+    background-color: #2F49D1;
+    position: absolute;
+    top: 227px;
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+}
+.nm2:hover{
+    background-color: #01265F;
+    transition: .2s;
+    cursor: pointer;
+
+}
+.pl3{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+     position: relative;
+top: 17px;
+left: 40px; 
+}.icn2{
+    font-size: 20px;
+    color: white;
+position: relative;
+top: 14px;
+left: 20px;
+}
+.nm3{
+    width: 253px;
+    height: 51px;
+    background-color: #2F49D1;
+    position: absolute;
+    top: 278px;
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+}
+.nm3:hover{
+    background-color: #01265F;
+    transition: .2s;
+    cursor: pointer;
+
+}
+.pl4{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+     position: relative;
+top: 17px;
+left: 40px; 
+}.icn3{
+    font-size: 20px;
+    color: white;
+position: relative;
+top: 14px;
+left: 20px;
+}
+.nm4{
+    width: 253px;
+    height: 51px;
+    background-color: #2F49D1;
+    position: absolute;
+    top: 329px;
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+}
+.nm4:hover{
+    background-color: #01265F;
+    transition: .2s;
+    cursor: pointer;
+
+}
+.pl5{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+     position: relative;
+top: 17px;
+left: 40px; 
+}.icn4{
+    font-size: 20px;
+    color: white;
+position: relative;
+top: 14px;
+left: 20px;
+}
+.nm5{
+    width: 253px;
+    height: 51px;
+    background-color: #2F49D1;
+    position: absolute;
+    top: 380px;
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+}
+.nm5:hover{
+    background-color: #01265F;
+    transition: .2s;
+    cursor: pointer;
+
+}
+.pl6{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+     position: relative;
+top: 17px;
+left: 40px; 
+}.icn5{
+    font-size: 20px;
+    color: white;
+position: relative;
+top: 14px;
+left: 20px;
+}
+.kj{
+    font-size: 36px;
+    font-weight: 700;
+margin-top: -100px;
+position: relative;
+top: -1020px;
+left: 300px;
+color: #0061F7;
+
+}
+.tem_xiso{
+    width: 545px;
+    height: 228px;
+    background-color: white;
+    margin-top: -500px;
+    position: relative;
+    top: -450px;
+    left: 282px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 25px 0px #00000026;
+
+}
+.pla_xi{
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px 20px;
+}
+.tem_xiso1{
+    width: 545px;
+    height: 228px;
+    background-color: white;
+    margin-top: -500px;
+    position: relative;
+    top: -177px;
+    left: 860px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 25px 0px #00000026;
+
+}
+.pla_xi1{
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px 20px;
+}
+.tem_xiso2{
+    width: 545px;
+    height: 228px;
+    background-color: white;
+    margin-top: -500px;
+    position: relative;
+    top: 350px;
+    left: 284px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 25px 0px #00000026;
+
+}
+.pla_xi2{
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px 20px;
+}
+.tem_xiso3{
+    width: 545px;
+    height: 228px;
+    background-color: white;
+    margin-top: -500px;
+    position: relative;
+    top: 623px;
+    left: 860px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 25px 0px #00000026;
+
+}
+.pla_xi3{
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px 20px;
+}
+.pla_xcv{
+    position: relative;
+    left: 20px;
+}.pla_xcv1{
+    position: relative;
+    left: 20px;
+}.pla_xcv2{
+    position: relative;
+    left: 20px;
+}.pla_xcv3{
+    position: relative;
+    left: 20px;
+}
+.img{
+    position: relative;
+    top: 625px;
+    left: 260px;
+}
+.img2_xisobot{
+    position: relative;
+    top: -450px;
+    left: -1150px;
+}
+.pot_xisobotlar_wer{
+    height: 1px;
+    width: 213px;
+    position: relative;
+    top: -480px;
+    left: 20px;
+    background-color: white;
+}
+.menu_icon_xisobotlar{
+    font-size: 30px;
+    position: relative;
+    top: -540px;
+    left: 200px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.wer_xisobod{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0061F7;
+text-align: center;
+position: relative;
+top: -580px;
+left: 200px;
+
+}
+.hg_ter{
+    position: absolute;
+    right: 20px;
+}.hg_ter1{
+    position: absolute;
+    right: 20px;
+}.hg_ter2{
+    position: absolute;
+    right: 20px;
+}.hg_ter3{
+    position: absolute;
+    right: 20px;
+}

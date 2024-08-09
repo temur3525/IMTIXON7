@@ -1,0 +1,211 @@
+.der_des {
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: -100px;
+    position: relative;
+    top: -1020px;
+    left: 300px;
+    color: #0061F7;
+}
+
+.ser_der_sed {
+    font-size: 40px;
+    color: #0061F7;
+    font-weight: 600;
+    position: relative;
+    top: -990px;
+    left: 370px;
+}
+
+.input_text_oquv {
+    width: 320px;
+    height: 48px;
+    margin-top: -50px;
+    position: relative;
+    top: -900px;
+    left: 375px;
+    padding: 0px 20px;
+    background-color: white;
+    border: 1px solid #2F49D199;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.input_number_oquv {
+    width: 320px;
+    height: 48px;
+    margin-top: -50px;
+    position: relative;
+    top: -900px;
+    left: 407px;
+    padding: 0px 20px;
+    background-color: white;
+    border: 1px solid #2F49D199;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.input_otaonatext_oquv {
+    width: 320px;
+    height: 48px;
+    margin-top: -50px;
+    position: relative;
+    top: -800px;
+    left: -265px;
+    padding: 0px 20px;
+    background-color: white;
+    border: 1px solid #2F49D199;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.input_otanumber_oquv {
+    width: 320px;
+    height: 48px;
+    margin-top: -50px;
+    position: relative;
+    top: -800px;
+    left: -233px;
+    padding: 0px 20px;
+    background-color: white;
+    border: 1px solid #2F49D199;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.plaw_oquv {
+    margin-top: -100px;
+    position: relative;
+    left: 380px;
+    top: -890px;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.plaw_oquv1 {
+    margin-top: -100px;
+    position: relative;
+    left: 728px;
+    top: -815px;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.plaw_oquv2 {
+    margin-top: -100px;
+    position: relative;
+    left: 380px;
+    top: -630px;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.plaw_oquv3 {
+    margin-top: -100px;
+    position: relative;
+    left: 728px;
+    top: -553px;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.poer_xisobotlar {
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: -500px;
+    left: 100px;
+}
+
+.img2_oquvchilar {
+    position: relative;
+    top: -824px;
+    left: 23px;
+}
+
+.mn_mk_lo {
+    position: relative;
+    top: -374px;
+}
+
+.input_otaonatext_yonalishi {
+    width: 320px;
+    height: 48px;
+    margin-top: -50px;
+    position: absolute;
+    top: 274px;
+    left: 1080px;
+    padding: 0px 20px;
+    background-color: white;
+    border: 1px solid #2F49D199;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.btn_oquvchilar {
+    position: absolute;
+    width: 314px;
+    height: 48px;
+    background-color: #2F49D1;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: .5s;
+    border-radius: 8px;
+    top: 323px;
+    left:1080px;
+}
+.btn_oquvchilar:hover{
+    background-color: transparent;
+color: #2F49D1;
+border-color: #2F49D1;
+transition: .5s ;
+}
+.rtgh_dxcfvg{
+    color: #0061F7;
+    font-size: 40px;
+    font-weight: 600;
+  position: relative;
+  top: -500px;
+  left: 370px;
+}
+.input_owuvchi_cvgb{
+    width: 340px;
+height: 48px;
+background-color: white;
+box-shadow: 0px 4px 12px 0px #00000033;
+border: 1px solid transparent;
+border-radius: 16px;
+position: relative;
+top: -543px;
+left: 1000px;
+
+}
+.saerch_lupa_uquv{
+    font-size: 25px;
+color: black;
+position: relative;
+top: -535px;
+left: 670px;
+cursor: pointer;
+}
+.wer_oquv{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0061F7;
+    position: relative;
+    top: -1050px;
+    left: 900px;
+}
